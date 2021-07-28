@@ -1,1 +1,122 @@
+body{
+   
+  background-image: url("https://github.com/Riyaashk/bracket-website/blob/main/resources/developer.jpeg?raw=tru");
 
+}
+
+img {
+
+  margin-left:500px;
+  margin-right:500px;
+  margin-top:0px;
+  border-radius: 50%;
+}
+
+
+  
+ .topnav a {
+  float: right;
+  color:white;
+  text-align:center;
+  padding: 20px 30px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left:0px;
+}
+
+.topnav a:hover {
+  background-color:skyblue;
+  color:black;
+}
+
+
+h2 {
+                   display: block;
+                    font-family:cursive;
+                   margin-left:510px;
+                   margin-right: 500px;
+                   border-radius: 50%;
+                   font-size: 30px;
+                   color:black;
+                   }
+                 p1 {
+                   display: block;
+                   color:lightpink;
+                   margin-left: 250px;
+                   margin-right: 0px;
+                   border-radius: 50%;
+                   font-size: 40px;
+                   font-weight:500;
+                   
+                   }
+                    p2 {
+                   display: block;
+                   margin-left:0px;
+                   margin-right:0px;
+                   border-radius:50%;
+                   font-size: 35px;
+                   color:greenyellow;
+                  
+                   }
+
+.fa {
+  padding: 25px;
+font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 180px;
+  
+  border-radius: 50%;
+  margin-top:10%;
+  
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+   
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+    
+    
